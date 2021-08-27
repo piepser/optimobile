@@ -1,0 +1,6 @@
+{
+    "apiUrl": "API_URL/static",
+    "wsUrl": "WS_URL/api",
+    "verbose": "true",
+    "appName": "WebSocket UI"
+}
